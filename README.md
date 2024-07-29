@@ -1,4 +1,4 @@
-## Shopping Manager System
+##                             Shopping Manager System
 
 ## Project Description
 
